@@ -58,13 +58,14 @@ pub fn unlock_corenft_handler(ctx: Context<UnlockCoreNFT>) -> Result<()> {
     .invoke()?;
 
     // Remove the FreezeDelegate Plugin
-    RemovePluginV1CpiBuilder::new(&ctx.accounts.core_program)
-    .asset(&ctx.accounts.asset.to_account_info())
-    .collection(Some(&ctx.accounts.collection.to_account_info()))
-    .payer(&ctx.accounts.user)
-    .system_program(&ctx.accounts.system_program)
-    .plugin_type(PluginType::FreezeDelegate)
-    .invoke()?;
+    
+    // RemovePluginV1CpiBuilder::new(&ctx.accounts.core_program)
+    // .asset(&ctx.accounts.asset.to_account_info())
+    // .collection(Some(&ctx.accounts.collection.to_account_info()))
+    // .payer(&ctx.accounts.user)
+    // .system_program(&ctx.accounts.system_program)
+    // .plugin_type(PluginType::FreezeDelegate)
+    // .invoke()?;
 
     global_pool.total_corenft_staked_count -= 1;
     
