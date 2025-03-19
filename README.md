@@ -4,11 +4,9 @@ This project features an on-chain staking program for NFTs on Solana, built usin
 ## Contact me
 If you need more technical support and development inquires, you can contact below.
 
-Telegram: [@diasibt](https://t.me/@diasibt)
+Telegram: [@Ljubomir Igic](https://t.me/@ljubomir_igic)
 
-X: [@DiasIbt101](https://x.com/DiasIbt101)
-
-Linkedin: [@dias-ishbulatov](https://www.linkedin.com/in/dias-ishbulatov)
+Linkedin: [@Ljubomir Igic](https://www.linkedin.com/in/ljubomir-igic-6a9615340)
 
 
 ## Overview
