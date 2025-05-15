@@ -4,9 +4,9 @@ This project features an on-chain staking program for NFTs on Solana, built usin
 ## Contact me
 If you need more technical support and development inquires, you can contact below.
 
-Telegram: [@Ljubomir Igic](https://t.me/@ljubomir_igic)
+Telegram: [@bitman09](https://t.me/@bitman09)
 
-Linkedin: [@Ljubomir Igic](https://www.linkedin.com/in/ljubomir-igic-6a9615340)
+Linkedin: [@dias-ishbulatov](https://www.linkedin.com/in/dias-ishbulatov)
 
 
 ## Overview
@@ -40,7 +40,7 @@ Before setting up this project, ensure the following dependencies are installed:
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/bitman/metaplex-core-nft-staking.git
+git clone https://github.com/bitman09/metaplex-core-nft-staking.git
 cd metaplex-core-nft-staking
 ```
 
